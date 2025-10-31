@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Housing Market Shows Strong Growth in Q4 2024",
+    "source": "realtor.com",
+    "url": "https://example.com/article1",
+    "publishedAt": "2024-01-15T10:00:00Z",
+    "excerpt": "The real estate market continues to show resilience with record-breaking sales numbers. Analysts predict continued growth throughout the year as inventory levels stabilize."
+  },
+  {
+    "id": "2",
+    "title": "New Development Projects Transform Downtown Area",
+    "source": "inman.com",
+    "url": "https://example.com/article2",
+    "publishedAt": "2024-01-14T14:30:00Z",
+    "excerpt": "Several major development projects are reshaping the urban landscape. Mixed-use developments are becoming the new standard for city planning."
+  },
+  {
+    "id": "3",
+    "title": "Mortgage Rates Stabilize After Fed Meeting",
+    "source": "mansionglobal.com",
+    "url": "https://example.com/article3",
+    "publishedAt": "2024-01-13T09:15:00Z",
+    "excerpt": "Interest rates hold steady as the Federal Reserve maintains current policy. Homebuyers can expect consistency in the coming months."
+  },
+  {
+    "id": "4",
+    "title": "Luxury Home Sales Surge in Coastal Markets",
+    "source": "realtor.com",
+    "url": "https://example.com/article4",
+    "publishedAt": "2024-01-12T16:45:00Z",
+    "excerpt": "High-end properties in beachfront communities see increased demand. International buyers are driving the luxury market."
+  },
+  {
+    "id": "5",
+    "title": "Tech Companies Drive Commercial Real Estate Boom",
+    "source": "inman.com",
+    "url": "https://example.com/article5",
+    "publishedAt": "2024-01-11T11:20:00Z",
+    "excerpt": "Major tech firms expand office spaces as remote work trends shift. Hybrid work models require larger, more flexible spaces."
+  },
+  {
+    "id": "6",
+    "title": "Sustainable Building Practices Gain Traction",
+    "source": "mansionglobal.com",
+    "url": "https://example.com/article6",
+    "publishedAt": "2024-01-10T13:00:00Z",
+    "excerpt": "Green building certifications become standard in new construction. Energy-efficient homes command premium prices."
+  },
+  {
+    "id": "7",
+    "title": "Suburban Migration Continues Post-Pandemic",
+    "source": "realtor.com",
+    "url": "https://example.com/article7",
+    "publishedAt": "2024-01-09T08:30:00Z",
+    "excerpt": "Families seek larger homes in suburban communities. Quality schools and outdoor space drive relocation decisions."
+  },
+  {
+    "id": "8",
+    "title": "Investment Properties Show Strong ROI",
+    "source": "inman.com",
+    "url": "https://example.com/article8",
+    "publishedAt": "2024-01-08T15:10:00Z",
+    "excerpt": "Rental properties continue to generate impressive returns for investors. Multi-family units are particularly attractive."
+  },
+  {
+    "id": "9",
+    "title": "First-Time Homebuyer Programs Expand Nationwide",
+    "source": "realtor.com",
+    "url": "https://example.com/article9",
+    "publishedAt": "2024-01-07T10:45:00Z",
+    "excerpt": "Government initiatives make homeownership more accessible. Down payment assistance programs see record participation."
+  },
+  {
+    "id": "10",
+    "title": "Smart Home Technology Becomes Standard Feature",
+    "source": "mansionglobal.com",
+    "url": "https://example.com/article10",
+    "publishedAt": "2024-01-06T12:00:00Z",
+    "excerpt": "New construction includes smart home systems by default. Buyers expect integrated technology in modern homes."
+  }
+]
