@@ -72,9 +72,7 @@ const mockArticles = [
 
 export async function GET() {
   try {
-    // Try to fetch real RSS feeds
-    // In production, you'd want to properly handle RSS parsing
-    // For now, we'll return mock data
+    // mock for now but change to real when implemented 
     const articles = mockArticles
 
     return NextResponse.json({ articles })
