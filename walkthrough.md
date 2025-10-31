@@ -50,6 +50,6 @@ You can access this page by clicking the blue edit button on the manage page.
 
 ![Edit Page](./media/edit1.png)
 
-This is the edit page (probably `/moestate-news/create?id=something`). This is how users edit existing briefs. 
+This is the edit page. This is how users edit existing briefs. 
 
 
